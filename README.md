@@ -16,7 +16,7 @@ Based on these findings, here’s an actionable recommendation:
 
 ##### Specialize and Collaborate: 
 Developers could benefit by focusing on specialized areas where there’s evident demand and existing interest within the Basel community. By collaborating on existing projects, they may gain visibility and support for more impactful projects.
-#####Prioritize Project Maintenance: 
+##### Prioritize Project Maintenance: 
 Encourage developers to establish better documentation and succession plans for their projects. This would enhance the value of their repositories, as more developers could contribute to their sustainability.
 
 
